@@ -1,0 +1,3 @@
+The difference between a virtual and a physical address: 
+Physical adress is a real adress, which refer to the hardware adress in a real physical memory.
+Virtual adress refer to a virtual space and it is mapped to a physicall adresses in the main memory through a page table.

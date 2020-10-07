@@ -1,0 +1,24 @@
+MacBook-Pro-NURIA:~ nuriya$ vm_stat
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                                4916.
+Pages active:                            544273.
+Pages inactive:                          538035.
+Pages speculative:                          477.
+Pages throttled:                              0.
+Pages wired down:                        534093.
+Pages purgeable:                          81839.
+"Translation faults":                 365387648.
+Pages copy-on-write:                    5233907.
+Pages zero filled:                    266505157.
+Pages reactivated:                     41165693.
+Pages purged:                          22285409.
+File-backed pages:                       286321.
+Anonymous pages:                         796464.
+Pages stored in compressor:             2748226.
+Pages occupied by compressor:            475079.
+Decompressions:                        60200325.
+Compressions:                          96303643.
+Pageins:                               23019207.
+Pageouts:                                585870.
+Swapins:                               12169701.
+Swapouts:                              13244636.

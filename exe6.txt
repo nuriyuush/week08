@@ -1,0 +1,4 @@
+From the given we know that a machine has 16-bit virtual adresses. Pages are 8 KB.
+It means that we need 13 bit for page offsets. 
+Let's compute: 16-13 = 3 bit; 2^3 = 8. 
+Answer: 8 entries are needed for a single-level linear page table.

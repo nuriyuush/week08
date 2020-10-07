@@ -1,0 +1,1 @@
+By running exe2.c in the background we can see that virtual and physical memory are increased by approximately 100M.
